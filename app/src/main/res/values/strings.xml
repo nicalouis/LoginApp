@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FLOJEMON_INF253</string>
+    <string name="personal_greeting">Hello, Aunnica!</string>
+    <string name="open_lifecycle">Open lifecycle demo</string>
+    <string name="lifecycle_title">Activity lifecycle demo</string>
+    <string name="back_to_greeting">Back to greeting</string>
+    <string name="lifecycle_instructions">Filter Logcat by tag:LifecycleDemo</string>
+</resources>
